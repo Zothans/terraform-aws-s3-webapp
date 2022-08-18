@@ -5,7 +5,7 @@ variable "name" {yes}
 variable "testvar" {
   type = string
   default = ""
-  description = "This is a test variable where default is empty"
+  description = "This is a testngg  variable where default is empty"
 }
 
 variable "testvar_default" {
