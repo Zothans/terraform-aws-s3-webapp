@@ -12,7 +12,6 @@ description = "Your name to attach to the webapp address"
 
 variable "testvar" {
   type = string
-  default = ""
   description = "This is a testngg  variable where default is empty"
 }
 
