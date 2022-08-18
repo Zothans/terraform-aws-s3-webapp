@@ -1,3 +1,3 @@
 variable "region" {}
 variable "prefix" {}
-variable "name" {"test"}
+variable "name" {yes}
